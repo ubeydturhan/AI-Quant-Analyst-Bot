@@ -1,0 +1,3 @@
+.env
+__pycache__/
+Rapport_Quant.pptx
